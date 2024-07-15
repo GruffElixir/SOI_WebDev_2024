@@ -46,7 +46,7 @@ Before you begin, ensure you have met the following requirements:
 ## Usage
 
 1. Ensure MongoDB is running.
-2. Open your browser and navigate to the frontend development server URL (usually `http://localhost:3000`).
+2. Open your browser and navigate to the frontend development server URL (usually `http://localhost:5173`).
 3. Use the application to manage your library.
 
 ## Deployment
